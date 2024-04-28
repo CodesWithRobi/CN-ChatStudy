@@ -72,6 +72,24 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
 
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
+## Program:
+### Server.py:
+
+![image](https://github.com/CodesWithRobi/CN-ChatStudy/assets/130537166/bd24b9b6-e49c-4130-90e1-19fdfcab3530)
+
+### Client.py:
+
+![image](https://github.com/CodesWithRobi/CN-ChatStudy/assets/130537166/3848e77e-5ce0-44a7-ab4b-94edf41ac601)
+
+## Output:
+### Server:
+
+![image](https://github.com/CodesWithRobi/CN-ChatStudy/assets/130537166/d1df7e12-f8e1-4ab5-a3d1-06e1579591fe)
+
+
+### Client:
+
+![image](https://github.com/CodesWithRobi/CN-ChatStudy/assets/130537166/d7133e23-aee0-4217-a9ed-356a7c58b158)
 
 
 ## Result:
